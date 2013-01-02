@@ -11,6 +11,7 @@ document DEC21_2012_PRESENTATION).  The information that was shared related to t
 
 2) Give a snapshot of timelines of post secondary pathways by APCG members offering advise, tips, soundbytes, so students
 gain insight, information, and make smarter choices.
+
 3) Getting the APCG MESSAGE[1] across to all levels of students and to make a stronger social impact by empowering students
 to take ownership of their post secondary careers.
 
@@ -20,6 +21,12 @@ KEY QUESTIONS TO ANSWER THE APCG MESSAGE[1] -
 1) What did you do in High School to get into your post secondary program?
 
 2) Why did you choose your post secondary program?
+
+3) What additional extra curricular choices did you choose to help in your post secondary program?
+
+4) How did you survive your first year in your post secondary program?
+
+5) CO-OP is this beneficial? How do I get a good CO-OP placement? Do marks count for everything in post secondary?
 
 
 HOW TO CONVEY APCG MESSAGE[1] - 
