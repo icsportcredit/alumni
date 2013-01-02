@@ -1,4 +1,4 @@
-alumni network pathways connect log
+alumni pathways connect group log
 ======
 
 DEC 28th MEETING
