@@ -17,6 +17,10 @@
 
         function onDeviceReady()
         {
+			
+		}
+		
+		function alert() {
             // do your thing!
             //navigator.notification.alert("PhoneGap is working")
 			navigator.notification.alert(
@@ -34,7 +38,7 @@
 			
 			//$(document.body.add("<h1>DISMISSED</h1>"));
 			
-			$(this() {
+			$(function() {
 			
 				$("body").append("<h1>DISMISSED</h1>");
 				
@@ -45,5 +49,6 @@
         </script>
     </head>
     <body onload="onBodyLoad()">
+    <a href="#" onClick="alert(); return false;"><h1>Alert</h1></a>
     </body>
 </html>
