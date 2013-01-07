@@ -19,11 +19,29 @@
         {
             // do your thing!
             //navigator.notification.alert("PhoneGap is working")
-    		$(function() {
-				$("body").append("<h1>DEVICE IS READY</h1>");
-			});
+			navigator.notification.alert(
+			
+				'Hello World',
+				dismissed,
+				'Test',
+				'Done'
+			
+			);
+				
         }
-
+		
+		function dismissed() {
+			
+			$(document.body.add("<h1>DISMISSED</h1>"));
+			/*
+			$(this() {
+			
+				$("body").append("<h1>DISMISSED</h1>");
+				
+			});
+			*/
+		}
+		
         </script>
     </head>
     <body onload="onBodyLoad()">
